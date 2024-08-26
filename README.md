@@ -8,7 +8,7 @@ Using tools like Excel, Power BI, or SQL to present findings in a way that drive
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can tackle data challenges better than I can tackle a football.
 
-<!---
-Prasun-Rawat/Prasun-Rawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me -
+I have a passion for watching football and cricket, which I find both exciting and engaging. In my free time, I also love playing video games as a way to unwind and challenge myself.
+Spending quality time with friends and family is incredibly important to me, and I cherish these moments. Additionally, I have a soft spot for street dogs and puppies,
+and I thoroughly enjoy playing with them whenever I get the chance.
